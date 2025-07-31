@@ -5,7 +5,8 @@ NutriMind is an intelligent AI-powered nutrition companion designed to revolutio
 
 ## 
 <img width="1536" height="1024" alt="generated-image" src="https://github.com/user-attachments/assets/a49db32c-35da-447d-ba81-59bdf5a022d2" />
-## 
+
+##  
 
 # Problem Statement Nutrition Agent
 
